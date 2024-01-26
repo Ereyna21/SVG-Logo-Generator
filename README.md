@@ -50,7 +50,6 @@ Recording Link:
 https://drive.google.com/file/d/1c4QTiSIq7n3FnRx1N1OpbpwZd3WpGrD0/view
 
 
+![Test screenshot](image.png)
+![Logo created](image-1.png)
 
-![Circle screenshot](examples/CIrclelogo.png)
-![Square screenshot](examples/Squarelogo.png)
-![Trienagle screenshot](examples/Trianglelogo.png)
